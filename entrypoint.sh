@@ -1,3 +1,3 @@
 #!/bin/bash
 
-print("Hola Mundo")
+echo "Hola Mundo"
